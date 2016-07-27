@@ -11,3 +11,7 @@ h1 {
 .clearfix {
     clear: both;
 }
+
+.thumbnail p {
+    margin-bottom: 0;
+}
